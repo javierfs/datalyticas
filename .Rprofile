@@ -19,10 +19,7 @@ options(
   blogdown.knit.on_save = TRUE, 
   blogdown.author = "Javier Fernandez", 
   blogdown.ext = ".Rmarkdown",      
-  blogdown.subdir = "post"          
+  blogdown.subdir = "post",
+  blogdown.hugo.version = "0.83.1"
 )
 
-
-
-# fix Hugo version
-options(blogdown.hugo.version = "0.82.0")
