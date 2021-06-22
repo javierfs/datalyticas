@@ -8089,13 +8089,13 @@ a.summary-link {
  *  Navigation bar
  **************************************************/
 .dropdown-menu {
-  background-color: #f7f7f7 !important;
+  background-color: #ffc300 !important;
   color: #000 !important;
   z-index: 1032; }
 
 .navbar {
   height: 70px;
-  background: #f7f7f7;
+  background: #ffc300;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: 16.17px;
   position: fixed;
@@ -8222,7 +8222,7 @@ a.summary-link {
     left: 0;
     top: 50px;
     width: 100%;
-    background-color: #f7f7f7;
+    background-color: #ffc300;
     text-align: center !important; }
   .dark .navbar-collapse {
     background-color: #282a36; }
@@ -8252,7 +8252,7 @@ ul.nav-icons li.nav-item a.nav-link {
   color: white !important; }
 
 .dropdown-item {
-  background-color: #f7f7f7 !important;
+  background-color: #ffc300 !important;
   color: #000 !important; }
 
 .dark .dropdown-item {
