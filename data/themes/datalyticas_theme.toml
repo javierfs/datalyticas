@@ -5,13 +5,13 @@ name = "Dark"
 light = true
 
 # Primary
-primary = "#A624D6"
+primary = "rgb(255, 195, 0)"
 
 # Menu
 menu_primary = "rgb(255, 195, 0)"
-menu_text = "#000"
+menu_text = "rgb(255, 195, 0)"
 menu_text_active = "rgb(25, 25, 25)"
-menu_title = "#000"
+menu_title = "rgb(255, 195, 0)"
 # Home sections
-home_section_odd = "rgb(255,228,0)"
-home_section_even = "rgb(142,166,253)"
+home_section_odd = "rgb(255, 195, 0)"
+home_section_even = "rgb(255, 195, 0)"
