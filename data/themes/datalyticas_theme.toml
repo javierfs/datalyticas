@@ -1,4 +1,3 @@
-
 # Theme metadata
 name = "Dark"
 
@@ -6,14 +5,13 @@ name = "Dark"
 light = true
 
 # Primary
-primary = "rgb(150, 239, 159)"
+primary = "#A624D6"
 
 # Menu
 menu_primary = "rgb(255, 195, 0)"
 menu_text = "#000"
 menu_text_active = "rgb(25, 25, 25)"
 menu_title = "#000"
-
 # Home sections
 home_section_odd = "#FFE400"
 home_section_even = "#FDFD8E"
